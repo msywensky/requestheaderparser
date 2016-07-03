@@ -1,0 +1,20 @@
+{
+  "name": "requestheaderparser",
+  "version": "0.1.0",
+  "description": "Request Heaer Parser",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/msywensky/requestheaderparser"
+  },
+  "license": "MIT"
+}
